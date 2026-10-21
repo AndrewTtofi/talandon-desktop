@@ -2,7 +2,9 @@
 
 Downloads of the Talandon desktop app: the Talandon accounting platform for Cypriot accounting firms in its own window.
 
-**Download:** see [Releases](https://github.com/AndrewTtofi/talandon-desktop/releases/latest) → `Talandon_x.y.z_x64-setup.exe`.
+<!-- downloads:start -->
+The first release is being built.
+<!-- downloads:end -->
 
 - The app opens your firm's Talandon site in a desktop window; you sign in as usual. It holds no accounting data.
 - It updates itself when a new version is released.
