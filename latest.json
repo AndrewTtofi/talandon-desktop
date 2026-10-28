@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
-  "notes": "Talandon desktop 0.1.0",
-  "pub_date": "2026-10-21T18:30:48Z",
+  "version": "0.1.1",
+  "notes": "Talandon desktop 0.1.1",
+  "pub_date": "2026-10-28T18:03:53Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcXovU1ZPNE1pN0N1eW9RN2Nhc1BlS2owMmR5VXQxNXR3WHZCa3VwTGc3RzE3cW9HOTNiV09JaElrT3RFK1FxM1ZSMDZIR3hMUWdBUGR5SG5pV2JxOFROT2FrNTc1VXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA3NDQ4CWZpbGU6VGFsYW5kb25fMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCnFUYkE2UGFjeGVhclVtVkVjUkJyUGZKNEFGblJ2byt1YUdRUVpWMlBmQkJnVHRhY1RkaGs1ZWNsamcyRWNqS0J1MEZRdDJXbGZZaWZOMUJyL2F2bUJBPT0K",
-      "url": "https://raw.githubusercontent.com/AndrewTtofi/talandon-desktop/main/releases/v0.1.0/Talandon_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcXovU1ZPNE1pN0FoNW00NmIyNDEzQ1BONmFyUS95OW56THRTL2RmNUp3c3BZZ21JSzk3MHh5WC8rYnpYd2lFWmgySTdObVB0Tmw2aE1NcDNUYmVLTlBtUnlTUlluenc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjEwNjMyCWZpbGU6VGFsYW5kb25fMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCitsMGUrMk1nbFJtTFBZc2lRVXBrT09BWHRkb1lwektCM2M3MkxVSXcyMmh3Y1ZDMUw1V0VhUEdjWnd6OVFkWU5BdHZ4UjNHNW5wVEZsR1RMblZXQkJ3PT0K",
+      "url": "https://raw.githubusercontent.com/AndrewTtofi/talandon-desktop/main/releases/v0.1.1/Talandon_0.1.1_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcXovU1ZPNE1pN0N1eW9RN2Nhc1BlS2owMmR5VXQxNXR3WHZCa3VwTGc3RzE3cW9HOTNiV09JaElrT3RFK1FxM1ZSMDZIR3hMUWdBUGR5SG5pV2JxOFROT2FrNTc1VXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA3NDQ4CWZpbGU6VGFsYW5kb25fMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCnFUYkE2UGFjeGVhclVtVkVjUkJyUGZKNEFGblJ2byt1YUdRUVpWMlBmQkJnVHRhY1RkaGs1ZWNsamcyRWNqS0J1MEZRdDJXbGZZaWZOMUJyL2F2bUJBPT0K",
-      "url": "https://raw.githubusercontent.com/AndrewTtofi/talandon-desktop/main/releases/v0.1.0/Talandon_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcXovU1ZPNE1pN0FoNW00NmIyNDEzQ1BONmFyUS95OW56THRTL2RmNUp3c3BZZ21JSzk3MHh5WC8rYnpYd2lFWmgySTdObVB0Tmw2aE1NcDNUYmVLTlBtUnlTUlluenc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjEwNjMyCWZpbGU6VGFsYW5kb25fMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCitsMGUrMk1nbFJtTFBZc2lRVXBrT09BWHRkb1lwektCM2M3MkxVSXcyMmh3Y1ZDMUw1V0VhUEdjWnd6OVFkWU5BdHZ4UjNHNW5wVEZsR1RMblZXQkJ3PT0K",
+      "url": "https://raw.githubusercontent.com/AndrewTtofi/talandon-desktop/main/releases/v0.1.1/Talandon_0.1.1_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcXovU1ZPNE1pN0tLYWM5VGZNZzBiS1prLythY09OMldzSUpsc090ZXdrRnduV242UHU2N0RpOHg3dHhpTUM4aTY3cmdiVU9HTDF6M1QxMGozLzZ5aXB4RmhyYlZNS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjA3NDQ4CWZpbGU6VGFsYW5kb25fMC4xLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4wCmM5S2dXOXg2RXcxUllvU1plYmRKVzBYUmNYdDVobTcwYithQTdIMC9HOHkySU9OL21zdW4yMHJMd0FTMmc2QzBmYUpMTWpKZTYzeDRqbDI5akVBbkN3PT0K",
-      "url": "https://raw.githubusercontent.com/AndrewTtofi/talandon-desktop/main/releases/v0.1.0/Talandon_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcXovU1ZPNE1pN0l6aUw0YTJ0S3AzazRmNkFDTDhOcW5HVlBoUkNPa3ZyZm8yR09GempwVzVwVkVPTlEvbHhOWGdtbzRZL2EwcEs3dXJmdGdBYVl6eDJzNkFXQUV4ZUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjEwNjMyCWZpbGU6VGFsYW5kb25fMC4xLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4xClBMT3JQWHljNlpzeEdXU0hXMlVYMWhzZS9aWDFQNHVMNEZWWTl1azdNK0FWaWdRN2NtQmV6dGNuNXlSa0xKWE95eGUvQ1FRd2kySjh0VTc0di9QbENRPT0K",
+      "url": "https://raw.githubusercontent.com/AndrewTtofi/talandon-desktop/main/releases/v0.1.1/Talandon_0.1.1_x64_en-US.msi"
     }
   }
 }
